@@ -1,0 +1,12 @@
+# Node / build artifacts
+node_modules/
+out/
+
+# macOS
+.DS_Store
+
+# Intermediate / dev-only files (the .mov source recording is not distributed)
+*.mov
+*.b64.txt
+transcribed.txt
+bark-small.wav
